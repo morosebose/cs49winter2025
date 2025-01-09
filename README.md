@@ -13,6 +13,7 @@ Contributors:
 - Miranda Li, Stanford University
 
 Acknowledgments:
+- Christian Jonathan Gomez, Foothill College
 - Sarah Khan, Foothill College
 - Sina Khazaei, Foothill College
 - Vaibhavi Kulkarni, Foothill College
