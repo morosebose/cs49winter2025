@@ -30,6 +30,14 @@ def main():
     move()
 
 def turn_right():
+    """Enable Karel to face the direction to the right of the current direction
+    
+    Preconditions: Karel is on a corner facing a particular direction
+    
+    Postconditions: 
+    - Karel is on the same corner 
+    - Karel is facing the direction to the right of the previous direction
+    """
     turn_left()
     turn_left()
     turn_left()
