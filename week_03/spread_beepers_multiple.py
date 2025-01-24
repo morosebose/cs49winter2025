@@ -109,7 +109,7 @@ def return_home():
 
 def turn_around():
     """
-    Karel does a 360º.
+    Karel does a 180º.
     
     Preconditions: Karel faces one direction.
     
