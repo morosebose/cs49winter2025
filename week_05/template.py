@@ -23,7 +23,7 @@ def main():
 
 
 # Helper functions, as many as needed to implement the high-level steps
-def helper…func(): # use a short but descriptive name!
+def helper_func(): # use a short but descriptive name!
     """Brief description of what this function does
     
     Preconditions:
