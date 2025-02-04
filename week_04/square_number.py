@@ -7,9 +7,7 @@ Programmer: Surajit A. Bose, Date: 2024.05.03
 """
 
 def main():
-    """
-    Get number from user and print out its square.
-    """
+    """Get number from user and print out its square."""
     
     num = float(input('Type a number to see its square: '))
     print(f'{num} squared is {num * num}')

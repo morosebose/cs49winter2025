@@ -4,7 +4,7 @@ fahrenheit_to_celsius.py
 Prompt the user for a temperature in Fahrenheit.
 Convert the temperature to Celsius and print out the result.
 
-Programmer: Surajit A. Bose, Date: 20250131
+Programmer: Surajit A. Bose, Date: 2025.01.31
 """
 
 def main():
@@ -17,7 +17,7 @@ def main():
     print(f"Temperature: {fahrenheit}F = {celsius}C")
 
     # Method 2: Save a step by doing input and casting at once
-    # This is the most common way
+    # This is the most usual way
     fahrenheit = float(input("Enter temperature in Fahrenheit: "))
     celsius = (fahrenheit - 32) * 5 / 9
     print(f"Temperature: {fahrenheit}F = {celsius}C")
