@@ -1,8 +1,11 @@
 """
-planetary_weights.py
+planetary_weights_advanced.py
 
 Prompt the user for a weight on Earth and a planet. 
 Print the equivalent weight on specified planet.
+
+This solution uses Python's match ... case, an advanced version of if ... elif ... else.
+NOTE: match ... case syntax will not work on CiP IDE. Use if ... elif ... else there.
 
 Programmer: Surajit A. Bose, Date: 2025.02.12
 """
@@ -20,10 +23,7 @@ NEPTUNE_GRAVITY = 1.14
 def main():
     """
     Get Earth weight. Get planet. Calculate and display weight on planet.
-    
-    NOTE: match ... case syntax will not work on CiP IDE. Use if ... elif ... else there.
     """
-    
     # Prompt user for a weight on Earth
     weight = float(input("Enter a weight on Earth: "))
     
