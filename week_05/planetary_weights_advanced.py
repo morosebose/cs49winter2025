@@ -56,7 +56,7 @@ def main():
             weight = 0
             
     # For valid planet, display weight on planet
-    if weight :
+    if weight:
         print(f'The equivalent weight on {planet}: {planetary_weight:.2f}')
     # For invalid planet, print error message
     else:
