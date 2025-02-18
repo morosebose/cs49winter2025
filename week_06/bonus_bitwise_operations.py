@@ -3,7 +3,7 @@ bonus_bitwise_operations.py
 
 Demonstrate the operations of bitwise & and |. 
 
-Programmer: Surajit A. Bose, Date: 2024.05.20
+Programmer: Surajit A. Bose, Date: 2025.02.12
 """
 
 def bitwise_operations():
