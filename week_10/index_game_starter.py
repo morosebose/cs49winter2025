@@ -2,14 +2,14 @@ import random
 
 def main():
     
-    # create new non-empty list
-    names = ['Julie', 'Mehran', 'Simba', 'Ayesha']
+    # create new non-empty list called names
+    names = 
 
     # add a new name to the end of the list
-    names.append('Karel')
+    
 
-    # look up the length of the list
-    num_names = len(names)
+    # look up the length of the list and assign to num_names
+    
 
     # This is just like in Khansole Academy...
     # prompt the user for an answer, check if it is correct
